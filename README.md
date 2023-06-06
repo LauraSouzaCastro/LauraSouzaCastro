@@ -62,14 +62,16 @@ Habilidades
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" /> Git
         </td>
+         <td>
+          <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" /> GitHub
+         </td>
       </tr>
       <tr>
         
-        <td>
-          <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" /> GitHub
+        
 </div>
-        </td>
+        
         <td>
         </td>
         <td>
