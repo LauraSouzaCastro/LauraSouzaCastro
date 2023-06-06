@@ -40,12 +40,12 @@ Habilidades
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" /> Postgresql
         </td>
-      </tr>
-      <tr>
-        <td>
+         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" /> Redis
         </td>
+      </tr>
+      <tr>
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" /> MongoDB
@@ -58,20 +58,17 @@ Habilidades
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" /> AWS
         </td>
-      </tr>
-      <tr>
-        <td>
+         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" /> Git
         </td>
+      </tr>
+      <tr>
+        
         <td>
           <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" /> GitHub
 </div>
-        </td>
-        <td>
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" /> Linux
         </td>
         <td>
         </td>
